@@ -1,0 +1,11 @@
+/* css eksternal */
+#judulKedua{
+    color: orange;
+    background-color: green;
+}
+
+/* //css className */
+.judulInfo{
+    color: green;
+    background-color: orange;
+}
