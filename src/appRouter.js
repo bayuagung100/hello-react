@@ -18,7 +18,7 @@ const AppRouter = () => (
     <Router>
         <div>
             {/* Navigasi Routing */}
-            <nav>
+            <nav> 
                 <ul>
                     <li>
                         <Link to="/">Home</Link>
