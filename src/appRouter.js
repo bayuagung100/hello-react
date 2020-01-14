@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Route, Link} from "react-router-dom"; //bisa ju
 import App from './components/home/App';
 import Contact from './components/page/Contact';
 
-const AppRouter = () => (
+const appRouter = () => (
     //penulisan routing default
     // <BrowserRouter>
     //     <div>
@@ -35,4 +35,4 @@ const AppRouter = () => (
     </Router>
 );
 
-export default AppRouter ;
+export default appRouter ;
